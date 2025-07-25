@@ -29,3 +29,34 @@ This project models a satellite in a **circular low Earth orbit** using classica
    Run this in your terminal:
    '''bash
    pip install -r requirements.txt
+   
+---
+   
+**Output Example**
+Satellite Orbit:
+6878 x 6878 km x 0.0 deg orbit around Earth (♁)
+**This represents a circular orbit at 500 km altitude.**
+
+---
+
+**Technologies Used**
+
+♦Python 3.10+
+♦Poliastro
+♦Astropy
+♦NumPy
+
+---
+
+**Next Steps (Coming Soon)**
+♦Orbit plotting (2D/3D)
+♦Graphical dashboard or web UI
+♦Elliptical orbit support
+♦User-controlled input and orbit types
+
+---
+
+**Author**
+Esila Keskin
+University of the West of England – CS Student
+🌍 Exploring orbits, AI, and future space tech
